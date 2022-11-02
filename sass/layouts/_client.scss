@@ -1,4 +1,4 @@
-.client-top-text {
+.client__top-text {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
@@ -6,7 +6,7 @@
   color: var(--title-text-color);
 }
 
-.client-list {
+.companies {
   display: flex;
   align-content: center;
   justify-content: center;
@@ -14,7 +14,7 @@
   margin-top: 50px;
 }
 
-.client-link {
+.companies__link {
   width: 170px;
   height: 92px;
   color: #afb1b8;
@@ -36,6 +36,6 @@
   }
 }
 
-.client-icon {
+.companies__icon {
   fill: currentColor;
 }
